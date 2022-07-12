@@ -4,7 +4,6 @@ Object Detection from a image using Mask-R-CNN
 Object detection is a well-known computer technology  connected with computer vision and image processing that focuses on detecting objects or its instances of a certain class (such as humans, flowers, animals) in digital images and videos.  There are various applications of object detection that have been well researched including face detection, character recognition, and vehicle calculator. Object detection can be used for various purposes including retrieval and surveillance. In this we are going to detect the object in the particular given image using mask-r-cnn algorithm
 
 System Requirements:-
-
 Python 3.8
 
 HD/ 4k Image (The quality of the output will be based upon the quality of the onput image.) 
@@ -12,11 +11,9 @@ HD/ 4k Image (The quality of the output will be based upon the quality of the on
 RAM 4gb (minimum)
 
 Required Libraries:-
-
 OpenCv
 
 Mask R-CNN
-
 
 Pixellib
 
