@@ -10,6 +10,7 @@ HD/ 4k Image (The quality of the output will be based upon the quality of the on
 
 RAM 4gb (minimum)
 
+
 Required Libraries:-
 OpenCv
 
@@ -25,5 +26,8 @@ Os
 
 Using this Object Detection method we can detect the object present in the image (example – humans, animals, fruits, vehicles etc.) given by the user. After detecting it will differentiate the identified object in different colors. It will also display the name of the object on the top of the object in the text format. For example if it identify a dog means it will display dog in top of that object. And then it will has the audio output if the detected object.
 Note: audio output is created by GTTS(google text to speech 
+
+download the mask-r-cnn coco h5 using the below link
+https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
 
 
